@@ -4,7 +4,7 @@ This is used for the static calculation and Dynamic Calculation of the weight of
 
 ## System requirement
 
-To run this program, you need a `Linux` system environment. For `Windows` users, you can use a `Linux` subsystem in `Windows` or install a virtual machine for `Linux system. For `Mac` users, you can try to run this program in a virtual environment.
+To run this program, you need a `Linux` system environment. For `Windows` users, you can use a `Linux` subsystem in `Windows` or install a virtual machine for `Linux system`. For `Mac` users, you can try to run this program in a virtual environment.
 
 This program uses `Python` for implementation. When the program was finished, the latest version of `Python` is `3.8`. The packages used for this program includes `Numpy`, `os`, `sys`, `time`, `sets`, `collections`. Please make sure that these packages are installed in your Python.
 
